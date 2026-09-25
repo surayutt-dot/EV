@@ -1,35 +1,35 @@
 {
-  "id": "/EV/",
+  "id": "https://surayutt-dot.github.io/EV/",
+  "start_url": "https://surayutt-dot.github.io/EV/",
+  "scope": "https://surayutt-dot.github.io/EV/",
   "name": "MG S5 EV Tracker",
   "short_name": "MG S5",
   "description": "แอพบันทึกค่าใช้จ่ายและคำนวณต้นทุนการชาร์จรถยนต์ไฟฟ้า MG S5 EV",
-  "start_url": "/EV/",
-  "scope": "/EV/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f1f5f9",
   "theme_color": "#0284c7",
   "icons": [
     {
-      "src": "./pwa-192.png",
+      "src": "https://surayutt-dot.github.io/EV/pwa-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./pwa-192.png",
+      "src": "https://surayutt-dot.github.io/EV/pwa-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "./pwa-512.png",
+      "src": "https://surayutt-dot.github.io/EV/pwa-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "./pwa-512.png",
+      "src": "https://surayutt-dot.github.io/EV/pwa-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
