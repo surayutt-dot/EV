@@ -1,0 +1,25 @@
+{
+  "name": "MG S5 EV Tracker",
+  "short_name": "MG S5",
+  "description": "แอพบันทึกค่าใช้จ่ายและคำนวณต้นทุนการชาร์จรถยนต์ไฟฟ้า MG S5 EV",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "./pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
